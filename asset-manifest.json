@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://MohammedIhsaan.github.io/react-food-app/static/css/main.3babc2a4.chunk.css",
+    "main.js": "https://MohammedIhsaan.github.io/react-food-app/static/js/main.2f98e2db.chunk.js",
+    "main.js.map": "https://MohammedIhsaan.github.io/react-food-app/static/js/main.2f98e2db.chunk.js.map",
+    "runtime-main.js": "https://MohammedIhsaan.github.io/react-food-app/static/js/runtime-main.b7a1953e.js",
+    "runtime-main.js.map": "https://MohammedIhsaan.github.io/react-food-app/static/js/runtime-main.b7a1953e.js.map",
+    "static/js/2.b9a10449.chunk.js": "https://MohammedIhsaan.github.io/react-food-app/static/js/2.b9a10449.chunk.js",
+    "static/js/2.b9a10449.chunk.js.map": "https://MohammedIhsaan.github.io/react-food-app/static/js/2.b9a10449.chunk.js.map",
+    "index.html": "https://MohammedIhsaan.github.io/react-food-app/index.html",
+    "static/css/main.3babc2a4.chunk.css.map": "https://MohammedIhsaan.github.io/react-food-app/static/css/main.3babc2a4.chunk.css.map",
+    "static/js/2.b9a10449.chunk.js.LICENSE.txt": "https://MohammedIhsaan.github.io/react-food-app/static/js/2.b9a10449.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "https://MohammedIhsaan.github.io/react-food-app/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7a1953e.js",
+    "static/js/2.b9a10449.chunk.js",
+    "static/css/main.3babc2a4.chunk.css",
+    "static/js/main.2f98e2db.chunk.js"
+  ]
+}
